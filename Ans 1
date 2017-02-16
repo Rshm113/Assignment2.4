@@ -1,0 +1,27 @@
+Ans 1:- Hadoop in layman's term 
+           Hadoop grew out of a paper on MapReduce and GFS from Google, with the majority of its development coming from the efforts of 
+           Doug Cutting and Yahoo in the mid 2000s. At that time, the only companies capable of working with data at that scale are the
+           Silicon Valley giants, when the rest of the world was still mostly dependent on SQL solutions In 2006, Hadoop was released as 
+           an open source project through Apache, as a result, it grew incredibly quickly in terms of related projects, ecosystem, and
+           adoption.
+           
+           Hadoop is a cornerstone to commercial data offerings today, mainly due to its huge community and ecosystem, as well as the ease
+           of adoption. As a company, you can spend relatively little to store the same amount of data using Hadoop in comparison to traditional 
+           data warehouses. Here at Vertafore, we found our cost of storage is about 1/5 per gigabyte after migrating to Hadoop than it was on a 
+           SQL data warehouse for our particular use case. Hadoop is also virtually infinitely scaleable both in terms of storage and performance,
+           so there is almost no big concerns about future challenges when adopting Hadoop.
+           
+           These days, Hadoop has become a go-to solution for big data in many different implementations. For commercial businesses, Hadoop can be 
+           an analytics platform to drive business decisions. For instance, vast amounts of transactional historic and real-time customer data can 
+           be stored and processed to determine benchmark certain markets in the New England area. Many of these consumers are analysts, business 
+           intelligence, industrial engineers, etc. Hadoop is slightly different for tech companies. Companies like LinkedIn, Netflix, etc also use
+           it to store and process data in the terabytes/petabytes range. However, this data is often then re-consumed by other processes to build 
+           software features, such as Netflix’s recommendation system, or LinkedIn’s “People you may know” feature. From my experience, the two most
+           popular use cases are for Business Analytics (tracking historical data to determine customer behavior to improve business processes),
+           and as a distributed engine to process large amounts of data, often for tech companies (i.e. ingesting data from dozens of products in 
+           real-time, then using that to feed other software features). There’s no reason to limit Hadoop to these two cases, as it has found 
+           adoption in things like modelling stock markets, parallel computing, distributed file storage, and so much more. This gave rise to a 
+           lot of complementary projects in the ecosystem like Spark, HBase, Kafka/Storm, etc.
+           
+           
+
